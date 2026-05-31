@@ -6,6 +6,11 @@ A deep learning web application that detects plant diseases from leaf images usi
 Try the application here:
 
 https://huggingface.co/spaces/thetanmayagarwal/plant-disease-detection
+
+## Demo
+
+![App Screenshot](Project%20Screenshot%20(Streamlit%20Hugging%20Face%20App).png)
+
 ## Features
 
 - Upload a plant leaf image
