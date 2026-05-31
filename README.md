@@ -1,7 +1,11 @@
 # 🌱 Plant Disease Detection using MobileNetV2
 
 A deep learning web application that detects plant diseases from leaf images using MobileNetV2 Transfer Learning.
+## Live Demo
 
+Try the application here:
+
+https://huggingface.co/spaces/thetanmayagarwal/plant-disease-detection
 ## Features
 
 - Upload a plant leaf image
